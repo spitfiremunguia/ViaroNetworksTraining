@@ -1,0 +1,6 @@
+C:\Users\Viaro\Desktop\csharp_Training\Training_Project\Training_Project\bin\Debug\Training_Project.exe.config
+C:\Users\Viaro\Desktop\csharp_Training\Training_Project\Training_Project\bin\Debug\Training_Project.exe
+C:\Users\Viaro\Desktop\csharp_Training\Training_Project\Training_Project\bin\Debug\Training_Project.pdb
+C:\Users\Viaro\Desktop\csharp_Training\Training_Project\Training_Project\obj\Debug\Training_Project.csprojResolveAssemblyReference.cache
+C:\Users\Viaro\Desktop\csharp_Training\Training_Project\Training_Project\obj\Debug\Training_Project.exe
+C:\Users\Viaro\Desktop\csharp_Training\Training_Project\Training_Project\obj\Debug\Training_Project.pdb

@@ -1,0 +1,5 @@
+C:\Users\Viaro\Desktop\csharp_Training\Training_Project\Training_Project\bin\Release\Training_Project.exe.config
+C:\Users\Viaro\Desktop\csharp_Training\Training_Project\Training_Project\bin\Release\Training_Project.exe
+C:\Users\Viaro\Desktop\csharp_Training\Training_Project\Training_Project\bin\Release\Training_Project.pdb
+C:\Users\Viaro\Desktop\csharp_Training\Training_Project\Training_Project\obj\Release\Training_Project.exe
+C:\Users\Viaro\Desktop\csharp_Training\Training_Project\Training_Project\obj\Release\Training_Project.pdb
